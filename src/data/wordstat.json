@@ -1,0 +1,244 @@
+{
+  "categories": [
+    {
+      "id": "food",
+      "title": "Еда",
+      "pairs": [
+        {
+          "left": "пицца",
+          "left_count": 3175,
+          "right": "суши",
+          "right_count": 2543
+        },
+        {
+          "left": "бургер",
+          "left_count": 3345,
+          "right": "шаурма",
+          "right_count": 1687
+        },
+        {
+          "left": "паста",
+          "left_count": 4448,
+          "right": "стейк",
+          "right_count": 1468
+        },
+        {
+          "left": "салат",
+          "left_count": 923,
+          "right": "суп",
+          "right_count": 459
+        }
+      ]
+    },
+    {
+      "id": "movies",
+      "title": "Фильмы",
+      "pairs": [
+        {
+          "left": "Матрица",
+          "left_count": 3804,
+          "right": "Начало",
+          "right_count": 3796
+        },
+        {
+          "left": "Аватар",
+          "left_count": 1416,
+          "right": "Титаник",
+          "right_count": 253
+        },
+        {
+          "left": "Джокер",
+          "left_count": 3951,
+          "right": "Интерстеллар",
+          "right_count": 2744
+        },
+        {
+          "left": "Паразиты",
+          "left_count": 4248,
+          "right": "Одержимость",
+          "right_count": 2357
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "title": "Игры",
+      "pairs": [
+        {
+          "left": "Minecraft",
+          "left_count": 3084,
+          "right": "CS:GO",
+          "right_count": 225
+        },
+        {
+          "left": "Fortnite",
+          "left_count": 1374,
+          "right": "Dota 2",
+          "right_count": 2154
+        },
+        {
+          "left": "GTA 5",
+          "left_count": 2107,
+          "right": "The Last of Us",
+          "right_count": 1521
+        },
+        {
+          "left": "Cyberpunk 2077",
+          "left_count": 1082,
+          "right": "Elden Ring",
+          "right_count": 2085
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "title": "Музыка",
+      "pairs": [
+        {
+          "left": "Баста",
+          "left_count": 3039,
+          "right": "Моргенштерн",
+          "right_count": 897
+        },
+        {
+          "left": "Adele",
+          "left_count": 1850,
+          "right": "Billie Eilish",
+          "right_count": 3308
+        },
+        {
+          "left": "Кино",
+          "left_count": 2882,
+          "right": "Мумий Тролль",
+          "right_count": 20
+        },
+        {
+          "left": "Coldplay",
+          "left_count": 1461,
+          "right": "Imagine Dragons",
+          "right_count": 2232
+        }
+      ]
+    },
+    {
+      "id": "sport",
+      "title": "Спорт",
+      "pairs": [
+        {
+          "left": "Футбол",
+          "left_count": 3464,
+          "right": "Хоккей",
+          "right_count": 1570
+        },
+        {
+          "left": "Теннис",
+          "left_count": 3700,
+          "right": "Бег",
+          "right_count": 1056
+        },
+        {
+          "left": "Бокс",
+          "left_count": 4260,
+          "right": "ММА",
+          "right_count": 1127
+        },
+        {
+          "left": "Формула 1",
+          "left_count": 2248,
+          "right": "НБА",
+          "right_count": 1607
+        }
+      ]
+    },
+    {
+      "id": "travel",
+      "title": "Путешествия",
+      "pairs": [
+        {
+          "left": "Париж",
+          "left_count": 325,
+          "right": "Барселона",
+          "right_count": 1840
+        },
+        {
+          "left": "Таиланд",
+          "left_count": 1162,
+          "right": "Турция",
+          "right_count": 3583
+        },
+        {
+          "left": "Мальдивы",
+          "left_count": 1544,
+          "right": "Египет",
+          "right_count": 3722
+        },
+        {
+          "left": "Сочи",
+          "left_count": 2815,
+          "right": "Крым",
+          "right_count": 387
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "title": "Технологии",
+      "pairs": [
+        {
+          "left": "iPhone",
+          "left_count": 2570,
+          "right": "Samsung",
+          "right_count": 1835
+        },
+        {
+          "left": "ChatGPT",
+          "left_count": 4475,
+          "right": "Midjourney",
+          "right_count": 337
+        },
+        {
+          "left": "TikTok",
+          "left_count": 3347,
+          "right": "Instagram",
+          "right_count": 4003
+        },
+        {
+          "left": "NFT",
+          "left_count": 2490,
+          "right": "Metaverse",
+          "right_count": 146
+        }
+      ]
+    },
+    {
+      "id": "auto",
+      "title": "Авто",
+      "pairs": [
+        {
+          "left": "BMW",
+          "left_count": 4530,
+          "right": "Mercedes",
+          "right_count": 1924
+        },
+        {
+          "left": "Tesla",
+          "left_count": 2088,
+          "right": "Lexus",
+          "right_count": 4704
+        },
+        {
+          "left": "Toyota",
+          "left_count": 3581,
+          "right": "Kia",
+          "right_count": 2259
+        },
+        {
+          "left": "Audi",
+          "left_count": 4146,
+          "right": "Volvo",
+          "right_count": 2432
+        }
+      ]
+    }
+  ]
+}
