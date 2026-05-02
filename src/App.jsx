@@ -262,8 +262,14 @@ export class App extends React.Component {
         case 'select_category':
           return this.startGame(action.categoryId);
 
+        case 'back_to_menu':
+          return this.backToMenu();
+
+        case 'next_question':
+          return this.nextRound();
+
         default:
-          throw new Error(`Unknown action type ${action.type}`);
+          console.warn(`dispatchAssistantAction: unknown action type "${action.type}"`);
       }
     }
   }
