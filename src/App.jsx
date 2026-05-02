@@ -38,7 +38,6 @@ export class App extends React.Component {
     console.log('constructor');
 
     this.state = {
-      notes: [{ id: Math.random().toString(36).substring(7), title: 'тест' }],
       currentScreen: 'menu',
       score: 0,
       currentCategoryId: null,
@@ -227,19 +226,6 @@ export class App extends React.Component {
   getStateForAssistant() {
     console.log('getStateForAssistant: this.state:', this.state);
 
-    const itemSelector = {
-      items: this.state.notes.map(({ id, title }, index) => ({
-        number: index + 1,
-        id,
-        title,
-      })),
-      ignored_words: [
-        'добавить', 'установить', 'запиши', 'поставь', 'закинь', 'напомнить',
-        'удалить', 'удали',
-        'выполни', 'выполнил', 'сделал',
-      ],
-    };
-
     const gameState = {
       score: this.state.score,
       categoryId: this.state.currentCategoryId,
@@ -256,7 +242,6 @@ export class App extends React.Component {
     };
 
     const state = {
-      item_selector: itemSelector,
       game: gameState,
     };
 
@@ -268,15 +253,6 @@ export class App extends React.Component {
     console.log('dispatchAssistantAction', action);
     if (action) {
       switch (action.type) {
-        case 'add_note':
-          return this.add_note(action);
-
-        case 'done_note':
-          return this.done_note(action);
-
-        case 'delete_note':
-          return this.delete_note(action);
-
         case 'select_left':
           return this.handleAnswer('left');
 
@@ -292,60 +268,7 @@ export class App extends React.Component {
     }
   }
 
-  add_note(action) {
-    console.log('add_note', action);
-    this.setState({
-      notes: [
-        ...this.state.notes,
-        {
-          id: Math.random().toString(36).substring(7),
-          title: action.note,
-          completed: false,
-        },
-      ],
-    });
-  }
 
-  done_note(action) {
-    console.log('done_note', action);
-    this.setState({
-      notes: this.state.notes.map((note) =>
-        note.id === action.id ? { ...note, completed: !note.completed } : note
-      ),
-    });
-  }
-
-  _send_action_value(action_id, value) {
-    const data = {
-      action: {
-        action_id: action_id,
-        parameters: {
-          value: value,
-        },
-      },
-    };
-    const unsubscribe = this.assistant.sendData(data, (data) => {
-      const { type, payload } = data;
-      console.log('sendData onData:', type, payload);
-      unsubscribe();
-    });
-  }
-
-  play_done_note(id) {
-    const completed = this.state.notes.find(({ id }) => id)?.completed;
-    if (!completed) {
-      const texts = ['Молодец!', 'Красавчик!', 'Супер!'];
-      const idx = (Math.random() * texts.length) | 0;
-      this._send_action_value('done', texts[idx]);
-    }
-  }
-
-  delete_note(action) {
-    console.log('delete_note', action);
-    this.setState({
-      notes: this.state.notes.filter(({ id }) => id !== action.id),
-    });
-  }
 
   render() {
     console.log('render');
