@@ -9,7 +9,7 @@ export const GamePage = (props) => {
     <main className="game-container">
       <header className="game-header">
         <button className="back-button" type="button" onClick={onBack}>
-          ← Назад
+          Назад
         </button>
         <div className="score-badge">Счет: {score}</div>
       </header>

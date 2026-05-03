@@ -247,11 +247,11 @@ body {
 }
 
 .left-fill {
-  background: linear-gradient(90deg, #38bdf8 0%, #0284c7 100%);
+  background: #38bdf8;
 }
 
 .right-fill {
-  background: linear-gradient(90deg, #fb7185 0%, #f97316 100%);
+  background: #fb7185;
 }
 
 .stats-row {
