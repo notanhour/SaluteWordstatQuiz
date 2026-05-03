@@ -1,6 +1,36 @@
 {
   "categories": [
     {
+      "id": "countries",
+      "title": "Страны",
+      "pairs": [
+        {
+          "left": "Россия",
+          "left_count": 4820,
+          "right": "США",
+          "right_count": 4650
+        },
+        {
+          "left": "Китай",
+          "left_count": 3200,
+          "right": "Япония",
+          "right_count": 2800
+        },
+        {
+          "left": "Франция",
+          "left_count": 1520,
+          "right": "Германия",
+          "right_count": 1780
+        },
+        {
+          "left": "Индия",
+          "left_count": 2340,
+          "right": "Бразилия",
+          "right_count": 1120
+        }
+      ]
+    },
+    {
       "id": "food",
       "title": "Еда",
       "pairs": [
@@ -31,8 +61,68 @@
       ]
     },
     {
+      "id": "auto",
+      "title": "Авто",
+      "pairs": [
+        {
+          "left": "BMW",
+          "left_count": 4530,
+          "right": "Mercedes",
+          "right_count": 1924
+        },
+        {
+          "left": "Tesla",
+          "left_count": 2088,
+          "right": "Lexus",
+          "right_count": 4704
+        },
+        {
+          "left": "Toyota",
+          "left_count": 3581,
+          "right": "Kia",
+          "right_count": 2259
+        },
+        {
+          "left": "Audi",
+          "left_count": 4146,
+          "right": "Volvo",
+          "right_count": 2432
+        }
+      ]
+    },
+    {
+      "id": "books",
+      "title": "Книги",
+      "pairs": [
+        {
+          "left": "Гарри Поттер",
+          "left_count": 4210,
+          "right": "Властелин колец",
+          "right_count": 1890
+        },
+        {
+          "left": "Мастер и Маргарита",
+          "left_count": 2760,
+          "right": "Преступление и наказание",
+          "right_count": 1180
+        },
+        {
+          "left": "Дюна",
+          "left_count": 1840,
+          "right": "Ведьмак",
+          "right_count": 3450
+        },
+        {
+          "left": "1984",
+          "left_count": 1620,
+          "right": "О дивный новый мир",
+          "right_count": 780
+        }
+      ]
+    },
+    {
       "id": "movies",
-      "title": "Фильмы",
+      "title": "Кино",
       "pairs": [
         {
           "left": "Матрица",
@@ -57,36 +147,6 @@
           "left_count": 4248,
           "right": "Одержимость",
           "right_count": 2357
-        }
-      ]
-    },
-    {
-      "id": "games",
-      "title": "Игры",
-      "pairs": [
-        {
-          "left": "Minecraft",
-          "left_count": 3084,
-          "right": "CS:GO",
-          "right_count": 225
-        },
-        {
-          "left": "Fortnite",
-          "left_count": 1374,
-          "right": "Dota 2",
-          "right_count": 2154
-        },
-        {
-          "left": "GTA 5",
-          "left_count": 2107,
-          "right": "The Last of Us",
-          "right_count": 1521
-        },
-        {
-          "left": "Cyberpunk 2077",
-          "left_count": 1082,
-          "right": "Elden Ring",
-          "right_count": 2085
         }
       ]
     },
@@ -151,32 +211,62 @@
       ]
     },
     {
-      "id": "travel",
-      "title": "Путешествия",
+      "id": "games",
+      "title": "Игры",
       "pairs": [
         {
-          "left": "Париж",
-          "left_count": 325,
-          "right": "Барселона",
-          "right_count": 1840
+          "left": "Minecraft",
+          "left_count": 3084,
+          "right": "CS:GO",
+          "right_count": 225
         },
         {
-          "left": "Таиланд",
-          "left_count": 1162,
-          "right": "Турция",
-          "right_count": 3583
+          "left": "Fortnite",
+          "left_count": 1374,
+          "right": "Dota 2",
+          "right_count": 2154
         },
         {
-          "left": "Мальдивы",
-          "left_count": 1544,
-          "right": "Египет",
-          "right_count": 3722
+          "left": "GTA 5",
+          "left_count": 2107,
+          "right": "The Last of Us",
+          "right_count": 1521
         },
         {
-          "left": "Сочи",
-          "left_count": 2815,
-          "right": "Крым",
-          "right_count": 387
+          "left": "Cyberpunk 2077",
+          "left_count": 1082,
+          "right": "Elden Ring",
+          "right_count": 2085
+        }
+      ]
+    },
+    {
+      "id": "people",
+      "title": "Люди",
+      "pairs": [
+        {
+          "left": "Илон Маск",
+          "left_count": 3820,
+          "right": "Билл Гейтс",
+          "right_count": 2130
+        },
+        {
+          "left": "Месси",
+          "left_count": 3270,
+          "right": "Роналду",
+          "right_count": 3940
+        },
+        {
+          "left": "Безос",
+          "left_count": 1780,
+          "right": "Цукерберг",
+          "right_count": 2380
+        },
+        {
+          "left": "МакГрегор",
+          "left_count": 1940,
+          "right": "Хабиб",
+          "right_count": 2650
         }
       ]
     },
@@ -211,32 +301,62 @@
       ]
     },
     {
-      "id": "auto",
-      "title": "Авто",
+      "id": "brands",
+      "title": "Бренды",
       "pairs": [
         {
-          "left": "BMW",
-          "left_count": 4530,
-          "right": "Mercedes",
-          "right_count": 1924
+          "left": "Nike",
+          "left_count": 3840,
+          "right": "Adidas",
+          "right_count": 2940
         },
         {
-          "left": "Tesla",
-          "left_count": 2088,
-          "right": "Lexus",
-          "right_count": 4704
+          "left": "Coca-Cola",
+          "left_count": 2120,
+          "right": "Pepsi",
+          "right_count": 1380
         },
         {
-          "left": "Toyota",
-          "left_count": 3581,
-          "right": "Kia",
-          "right_count": 2259
+          "left": "IKEA",
+          "left_count": 2780,
+          "right": "H&M",
+          "right_count": 1640
         },
         {
-          "left": "Audi",
-          "left_count": 4146,
-          "right": "Volvo",
-          "right_count": 2432
+          "left": "McDonald's",
+          "left_count": 3520,
+          "right": "KFC",
+          "right_count": 2190
+        }
+      ]
+    },
+    {
+      "id": "memes",
+      "title": "Мемы",
+      "pairs": [
+        {
+          "left": "Shrek",
+          "left_count": 1230,
+          "right": "Спанч Боб",
+          "right_count": 1780
+        },
+        {
+          "left": "Ждун",
+          "left_count": 840,
+          "right": "Троллфейс",
+          "right_count": 620
+        },
+        {
+          "left": "Дратути",
+          "left_count": 960,
+          "right": "Это норм",
+          "right_count": 480
+        },
+        {
+          "left": "Гарольд",
+          "left_count": 1140,
+          "right": "Чад",
+          "right_count": 870
         }
       ]
     }
