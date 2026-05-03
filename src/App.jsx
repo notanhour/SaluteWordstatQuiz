@@ -165,10 +165,10 @@ export class App extends React.Component {
       return;
     }
 
-    const isTie = currentPair.left_count === currentPair.right_count;
+    const isTie = currentPair.left_percent === currentPair.right_percent;
     const correctSide = isTie
       ? side
-      : currentPair.left_count > currentPair.right_count
+      : currentPair.left_percent > currentPair.right_percent
       ? 'left'
       : 'right';
 
@@ -235,8 +235,8 @@ export class App extends React.Component {
         ? {
             left: this.state.currentPair.left,
             right: this.state.currentPair.right,
-            left_count: this.state.currentPair.left_count,
-            right_count: this.state.currentPair.right_count,
+            left_percent: this.state.currentPair.left_percent,
+            right_percent: this.state.currentPair.right_percent,
           }
         : null,
     };
@@ -264,9 +264,6 @@ export class App extends React.Component {
 
         case 'back_to_menu':
           return this.backToMenu();
-
-        case 'next_question':
-          return this.nextRound();
 
         default:
           console.warn(`dispatchAssistantAction: unknown action type "${action.type}"`);

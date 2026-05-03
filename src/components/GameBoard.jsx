@@ -6,9 +6,9 @@ export const GameBoard = ({ currentPair, answerState, selectedSide, onAnswer }) 
   }
 
   const correctSide =
-    currentPair.left_count === currentPair.right_count
+    currentPair.left_percent === currentPair.right_percent
       ? null
-      : currentPair.left_count > currentPair.right_count
+      : currentPair.left_percent > currentPair.right_percent
       ? 'left'
       : 'right';
 

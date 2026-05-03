@@ -5,8 +5,7 @@ export const ResultPanel = ({ currentPair, answerState, selectedSide, onNext }) 
     return null;
   }
 
-  const total = currentPair.left_count + currentPair.right_count;
-  const leftPercent = total ? Math.round((currentPair.left_count / total) * 100) : 50;
+  const leftPercent = currentPair.left_percent;
   const rightPercent = 100 - leftPercent;
 
   return (
@@ -19,20 +18,6 @@ export const ResultPanel = ({ currentPair, answerState, selectedSide, onNext }) 
           <span className="progress-text">{rightPercent}%</span>
         </div>
       </div>
-
-      {/*
-      <div className="stats-row">
-        <div className="stat-cell">
-          <div className="stat-label">{currentPair.left}</div>
-          <div className="stat-value">{currentPair.left_count.toLocaleString()}</div>
-        </div>
-        <div className="stat-cell">
-          <div className="stat-label">{currentPair.right}</div>
-          <div className="stat-value">{currentPair.right_count.toLocaleString()}</div>
-        </div>
-      </div>
-      */}
-
     </section>
   );
 };
