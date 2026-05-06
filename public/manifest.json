@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Битва запросов",
+  "name": "Битва запросов: Что гуглят чаще?",
   "icons": [
     {
       "src": "favicon.ico",
