@@ -1,0 +1,1876 @@
+{
+    "categories": [
+        {
+            "id": "countries",
+            "title": "Страны",
+            "pairs": [
+                {
+                    "left": "Кения",
+                    "left_percent": 15,
+                    "right": "Мальдивы",
+                    "right_percent": 85
+                },
+                {
+                    "left": "Канада",
+                    "left_percent": 51,
+                    "right": "Чехия",
+                    "right_percent": 49
+                },
+                {
+                    "left": "Мексика",
+                    "left_percent": 4,
+                    "right": "США",
+                    "right_percent": 96
+                },
+                {
+                    "left": "Египет",
+                    "left_percent": 72,
+                    "right": "Мальдивы",
+                    "right_percent": 28
+                },
+                {
+                    "left": "Мексика",
+                    "left_percent": 49,
+                    "right": "Хорватия",
+                    "right_percent": 51
+                },
+                {
+                    "left": "Австрия",
+                    "left_percent": 31,
+                    "right": "Индия",
+                    "right_percent": 69
+                },
+                {
+                    "left": "Испания",
+                    "left_percent": 79,
+                    "right": "Мальдивы",
+                    "right_percent": 21
+                },
+                {
+                    "left": "Кения",
+                    "left_percent": 30,
+                    "right": "Саудовская Аравия",
+                    "right_percent": 70
+                },
+                {
+                    "left": "Аргентина",
+                    "left_percent": 24,
+                    "right": "Корея",
+                    "right_percent": 76
+                },
+                {
+                    "left": "Черногория",
+                    "left_percent": 29,
+                    "right": "Индия",
+                    "right_percent": 71
+                },
+                {
+                    "left": "Швейцария",
+                    "left_percent": 69,
+                    "right": "Исландия",
+                    "right_percent": 31
+                },
+                {
+                    "left": "Австралия",
+                    "left_percent": 23,
+                    "right": "Франция",
+                    "right_percent": 77
+                },
+                {
+                    "left": "Чехия",
+                    "left_percent": 64,
+                    "right": "Швеция",
+                    "right_percent": 36
+                },
+                {
+                    "left": "Перу",
+                    "left_percent": 34,
+                    "right": "Греция",
+                    "right_percent": 66
+                },
+                {
+                    "left": "Армения",
+                    "left_percent": 69,
+                    "right": "Аргентина",
+                    "right_percent": 31
+                },
+                {
+                    "left": "Корея",
+                    "left_percent": 80,
+                    "right": "Хорватия",
+                    "right_percent": 20
+                },
+                {
+                    "left": "Россия",
+                    "left_percent": 86,
+                    "right": "Польша",
+                    "right_percent": 14
+                },
+                {
+                    "left": "Франция",
+                    "left_percent": 68,
+                    "right": "Канада",
+                    "right_percent": 32
+                },
+                {
+                    "left": "Марокко",
+                    "left_percent": 12,
+                    "right": "Турция",
+                    "right_percent": 88
+                },
+                {
+                    "left": "Индонезия",
+                    "left_percent": 49,
+                    "right": "Исландия",
+                    "right_percent": 51
+                },
+                {
+                    "left": "Испания",
+                    "left_percent": 77,
+                    "right": "Бразилия",
+                    "right_percent": 23
+                },
+                {
+                    "left": "Швейцария",
+                    "left_percent": 29,
+                    "right": "Корея",
+                    "right_percent": 71
+                },
+                {
+                    "left": "Исландия",
+                    "left_percent": 46,
+                    "right": "Великобритания",
+                    "right_percent": 54
+                },
+                {
+                    "left": "Вьетнам",
+                    "left_percent": 78,
+                    "right": "Мексика",
+                    "right_percent": 22
+                },
+                {
+                    "left": "США",
+                    "left_percent": 92,
+                    "right": "Швейцария",
+                    "right_percent": 8
+                }
+            ]
+        },
+        {
+            "id": "food",
+            "title": "Еда",
+            "pairs": [
+                {
+                    "left": "Блины",
+                    "left_percent": 64,
+                    "right": "Чеснок",
+                    "right_percent": 36
+                },
+                {
+                    "left": "Шоколад",
+                    "left_percent": 50,
+                    "right": "Сыр",
+                    "right_percent": 50
+                },
+                {
+                    "left": "Вино",
+                    "left_percent": 72,
+                    "right": "Блины",
+                    "right_percent": 28
+                },
+                {
+                    "left": "Мороженое",
+                    "left_percent": 43,
+                    "right": "Хлеб",
+                    "right_percent": 57
+                },
+                {
+                    "left": "Лимонад",
+                    "left_percent": 18,
+                    "right": "Картошка",
+                    "right_percent": 82
+                },
+                {
+                    "left": "Паста",
+                    "left_percent": 69,
+                    "right": "Мороженое",
+                    "right_percent": 31
+                },
+                {
+                    "left": "Вино",
+                    "left_percent": 91,
+                    "right": "Лимонад",
+                    "right_percent": 9
+                },
+                {
+                    "left": "Вода",
+                    "left_percent": 86,
+                    "right": "Бургер",
+                    "right_percent": 14
+                },
+                {
+                    "left": "Хлеб",
+                    "left_percent": 58,
+                    "right": "Бургер",
+                    "right_percent": 42
+                },
+                {
+                    "left": "Вода",
+                    "left_percent": 76,
+                    "right": "Шоколад",
+                    "right_percent": 24
+                },
+                {
+                    "left": "Вода",
+                    "left_percent": 90,
+                    "right": "Вафли",
+                    "right_percent": 10
+                },
+                {
+                    "left": "Клубника",
+                    "left_percent": 89,
+                    "right": "Круассан",
+                    "right_percent": 11
+                },
+                {
+                    "left": "Бургер",
+                    "left_percent": 71,
+                    "right": "Капучино",
+                    "right_percent": 29
+                },
+                {
+                    "left": "Блины",
+                    "left_percent": 88,
+                    "right": "Кетчуп",
+                    "right_percent": 12
+                },
+                {
+                    "left": "Оливье",
+                    "left_percent": 29,
+                    "right": "Сок",
+                    "right_percent": 71
+                },
+                {
+                    "left": "Шашлык",
+                    "left_percent": 25,
+                    "right": "Шоколад",
+                    "right_percent": 75
+                },
+                {
+                    "left": "Курица",
+                    "left_percent": 38,
+                    "right": "Сыр",
+                    "right_percent": 62
+                },
+                {
+                    "left": "Кетчуп",
+                    "left_percent": 13,
+                    "right": "Помидоры",
+                    "right_percent": 87
+                },
+                {
+                    "left": "Огурцы",
+                    "left_percent": 60,
+                    "right": "Борщ",
+                    "right_percent": 40
+                },
+                {
+                    "left": "Клубника",
+                    "left_percent": 23,
+                    "right": "Яблоко",
+                    "right_percent": 77
+                },
+                {
+                    "left": "Вафли",
+                    "left_percent": 20,
+                    "right": "Яйца",
+                    "right_percent": 80
+                },
+                {
+                    "left": "Перец",
+                    "left_percent": 14,
+                    "right": "Вода",
+                    "right_percent": 86
+                },
+                {
+                    "left": "Перец",
+                    "left_percent": 45,
+                    "right": "Курица",
+                    "right_percent": 55
+                },
+                {
+                    "left": "Картошка",
+                    "left_percent": 49,
+                    "right": "Хлеб",
+                    "right_percent": 51
+                },
+                {
+                    "left": "Яйца",
+                    "left_percent": 47,
+                    "right": "Суп",
+                    "right_percent": 53
+                }
+            ]
+        },
+        {
+            "id": "cars",
+            "title": "Авто",
+            "pairs": [
+                {
+                    "left": "УАЗ",
+                    "left_percent": 8,
+                    "right": "Lamborghini",
+                    "right_percent": 92
+                },
+                {
+                    "left": "Карт",
+                    "left_percent": 2,
+                    "right": "Hyundai",
+                    "right_percent": 98
+                },
+                {
+                    "left": "Карт",
+                    "left_percent": 49,
+                    "right": "Rolls-Royce",
+                    "right_percent": 51
+                },
+                {
+                    "left": "Skoda",
+                    "left_percent": 86,
+                    "right": "Geely",
+                    "right_percent": 14
+                },
+                {
+                    "left": "Subaru",
+                    "left_percent": 95,
+                    "right": "Карт",
+                    "right_percent": 5
+                },
+                {
+                    "left": "Suburban",
+                    "left_percent": 47,
+                    "right": "Bentley",
+                    "right_percent": 53
+                },
+                {
+                    "left": "Chery",
+                    "left_percent": 19,
+                    "right": "Ferrari",
+                    "right_percent": 81
+                },
+                {
+                    "left": "Camaro",
+                    "left_percent": 16,
+                    "right": "Suzuki",
+                    "right_percent": 84
+                },
+                {
+                    "left": "BMW",
+                    "left_percent": 100,
+                    "right": "Exeed",
+                    "right_percent": 0
+                },
+                {
+                    "left": "Ferrari",
+                    "left_percent": 34,
+                    "right": "Jeep",
+                    "right_percent": 66
+                },
+                {
+                    "left": "Toyota",
+                    "left_percent": 70,
+                    "right": "Tesla",
+                    "right_percent": 30
+                },
+                {
+                    "left": "Карт",
+                    "left_percent": 25,
+                    "right": "Geely",
+                    "right_percent": 75
+                },
+                {
+                    "left": "КамАЗ",
+                    "left_percent": 14,
+                    "right": "Infiniti",
+                    "right_percent": 86
+                },
+                {
+                    "left": "Газель",
+                    "left_percent": 4,
+                    "right": "Subaru",
+                    "right_percent": 96
+                },
+                {
+                    "left": "Haval",
+                    "left_percent": 16,
+                    "right": "Citroen",
+                    "right_percent": 84
+                },
+                {
+                    "left": "Zeekr",
+                    "left_percent": 3,
+                    "right": "Nissan",
+                    "right_percent": 97
+                },
+                {
+                    "left": "Chevrolet",
+                    "left_percent": 79,
+                    "right": "Land Rover",
+                    "right_percent": 21
+                },
+                {
+                    "left": "Subaru",
+                    "left_percent": 80,
+                    "right": "Bentley",
+                    "right_percent": 20
+                },
+                {
+                    "left": "Camaro",
+                    "left_percent": 21,
+                    "right": "Subaru",
+                    "right_percent": 79
+                },
+                {
+                    "left": "Hyundai",
+                    "left_percent": 68,
+                    "right": "Lexus",
+                    "right_percent": 32
+                },
+                {
+                    "left": "Audi",
+                    "left_percent": 98,
+                    "right": "Rolls-Royce",
+                    "right_percent": 2
+                },
+                {
+                    "left": "Tesla",
+                    "left_percent": 69,
+                    "right": "Lexus",
+                    "right_percent": 31
+                },
+                {
+                    "left": "BMW",
+                    "left_percent": 67,
+                    "right": "Nissan",
+                    "right_percent": 33
+                },
+                {
+                    "left": "Rolls-Royce",
+                    "left_percent": 18,
+                    "right": "Lada",
+                    "right_percent": 82
+                },
+                {
+                    "left": "Mustang",
+                    "left_percent": 35,
+                    "right": "Mazda",
+                    "right_percent": 65
+                }
+            ]
+        },
+        {
+            "id": "books",
+            "title": "Книги",
+            "pairs": [
+                {
+                    "left": "Инферно",
+                    "left_percent": 27,
+                    "right": "Хоббит",
+                    "right_percent": 73
+                },
+                {
+                    "left": "Скотный двор",
+                    "left_percent": 9,
+                    "right": "Мастер и Маргарита",
+                    "right_percent": 91
+                },
+                {
+                    "left": "Оно",
+                    "left_percent": 96,
+                    "right": "Три мушкетера",
+                    "right_percent": 4
+                },
+                {
+                    "left": "Властелин колец",
+                    "left_percent": 88,
+                    "right": "Инферно",
+                    "right_percent": 12
+                },
+                {
+                    "left": "Песнь льда и пламени",
+                    "left_percent": 6,
+                    "right": "Голодные игры",
+                    "right_percent": 94
+                },
+                {
+                    "left": "1984",
+                    "left_percent": 100,
+                    "right": "Великий Гэтсби",
+                    "right_percent": 0
+                },
+                {
+                    "left": "Мертвые души",
+                    "left_percent": 21,
+                    "right": "Властелин колец",
+                    "right_percent": 79
+                },
+                {
+                    "left": "Война и мир",
+                    "left_percent": 33,
+                    "right": "Дракула",
+                    "right_percent": 67
+                },
+                {
+                    "left": "Тонкое искусство пофигизма",
+                    "left_percent": 4,
+                    "right": "Маленький принц",
+                    "right_percent": 96
+                },
+                {
+                    "left": "Богатый папа бедный папа",
+                    "left_percent": 45,
+                    "right": "Над пропастью во ржи",
+                    "right_percent": 55
+                },
+                {
+                    "left": "Три мушкетера",
+                    "left_percent": 64,
+                    "right": "Скотный двор",
+                    "right_percent": 36
+                },
+                {
+                    "left": "1984",
+                    "left_percent": 100,
+                    "right": "О дивный новый мир",
+                    "right_percent": 0
+                },
+                {
+                    "left": "Марсианин",
+                    "left_percent": 61,
+                    "right": "Код да Винчи",
+                    "right_percent": 39
+                },
+                {
+                    "left": "Шерлок Холмс",
+                    "left_percent": 89,
+                    "right": "Атлант расправил плечи",
+                    "right_percent": 11
+                },
+                {
+                    "left": "Дракула",
+                    "left_percent": 92,
+                    "right": "Марсианин",
+                    "right_percent": 8
+                },
+                {
+                    "left": "Пикник на обочине",
+                    "left_percent": 37,
+                    "right": "Сто лет одиночества",
+                    "right_percent": 63
+                },
+                {
+                    "left": "Зеленая миля",
+                    "left_percent": 70,
+                    "right": "Три товарища",
+                    "right_percent": 30
+                },
+                {
+                    "left": "Голодные игры",
+                    "left_percent": 81,
+                    "right": "Три мушкетера",
+                    "right_percent": 19
+                },
+                {
+                    "left": "Песнь льда и пламени",
+                    "left_percent": 2,
+                    "right": "Игра престолов",
+                    "right_percent": 98
+                },
+                {
+                    "left": "1984",
+                    "left_percent": 98,
+                    "right": "Бойцовский клуб",
+                    "right_percent": 2
+                },
+                {
+                    "left": "Зеленая миля",
+                    "left_percent": 71,
+                    "right": "Атлант расправил плечи",
+                    "right_percent": 29
+                },
+                {
+                    "left": "Оно",
+                    "left_percent": 97,
+                    "right": "451 градус по Фаренгейту",
+                    "right_percent": 3
+                },
+                {
+                    "left": "Мертвые души",
+                    "left_percent": 42,
+                    "right": "Хоббит",
+                    "right_percent": 58
+                },
+                {
+                    "left": "Война и мир",
+                    "left_percent": 68,
+                    "right": "Мертвые души",
+                    "right_percent": 32
+                },
+                {
+                    "left": "Сумерки",
+                    "left_percent": 74,
+                    "right": "Франкенштейн",
+                    "right_percent": 26
+                }
+            ]
+        },
+        {
+            "id": "movies",
+            "title": "Кино",
+            "pairs": [
+                {
+                    "left": "Пираты Карибского моря",
+                    "left_percent": 82,
+                    "right": "Служебный роман",
+                    "right_percent": 18
+                },
+                {
+                    "left": "Трансформеры",
+                    "left_percent": 68,
+                    "right": "Человек-паук",
+                    "right_percent": 32
+                },
+                {
+                    "left": "Во все тяжкие",
+                    "left_percent": 46,
+                    "right": "Чужой",
+                    "right_percent": 54
+                },
+                {
+                    "left": "Дюна",
+                    "left_percent": 64,
+                    "right": "Гладиатор",
+                    "right_percent": 36
+                },
+                {
+                    "left": "Назад в будущее",
+                    "left_percent": 37,
+                    "right": "Человек-паук",
+                    "right_percent": 63
+                },
+                {
+                    "left": "Офис",
+                    "left_percent": 99,
+                    "right": "Волк с Уолл-стрит",
+                    "right_percent": 1
+                },
+                {
+                    "left": "Назад в будущее",
+                    "left_percent": 6,
+                    "right": "Матрица",
+                    "right_percent": 94
+                },
+                {
+                    "left": "Игра престолов",
+                    "left_percent": 33,
+                    "right": "Очень странные дела",
+                    "right_percent": 67
+                },
+                {
+                    "left": "Криминальное чтиво",
+                    "left_percent": 14,
+                    "right": "Один дома",
+                    "right_percent": 86
+                },
+                {
+                    "left": "Терминатор",
+                    "left_percent": 26,
+                    "right": "Чужой",
+                    "right_percent": 74
+                },
+                {
+                    "left": "Холоп",
+                    "left_percent": 32,
+                    "right": "Черное зеркало",
+                    "right_percent": 68
+                },
+                {
+                    "left": "Гладиатор",
+                    "left_percent": 32,
+                    "right": "Шерлок",
+                    "right_percent": 68
+                },
+                {
+                    "left": "Форрест Гамп",
+                    "left_percent": 30,
+                    "right": "Остров проклятых",
+                    "right_percent": 70
+                },
+                {
+                    "left": "Интерстеллар",
+                    "left_percent": 32,
+                    "right": "Барби",
+                    "right_percent": 68
+                },
+                {
+                    "left": "Друзья",
+                    "left_percent": 79,
+                    "right": "Терминатор",
+                    "right_percent": 21
+                },
+                {
+                    "left": "Бэтмен",
+                    "left_percent": 84,
+                    "right": "Форрест Гамп",
+                    "right_percent": 16
+                },
+                {
+                    "left": "Чужой",
+                    "left_percent": 91,
+                    "right": "Криминальное чтиво",
+                    "right_percent": 9
+                },
+                {
+                    "left": "Бриллиантовая рука",
+                    "left_percent": 8,
+                    "right": "Чужой",
+                    "right_percent": 92
+                },
+                {
+                    "left": "Чебурашка",
+                    "left_percent": 64,
+                    "right": "Гладиатор",
+                    "right_percent": 36
+                },
+                {
+                    "left": "Барби",
+                    "left_percent": 55,
+                    "right": "Титаник",
+                    "right_percent": 45
+                },
+                {
+                    "left": "Джентльмены",
+                    "left_percent": 70,
+                    "right": "Назад в будущее",
+                    "right_percent": 30
+                },
+                {
+                    "left": "Сверхъестественное",
+                    "left_percent": 36,
+                    "right": "Друзья",
+                    "right_percent": 64
+                },
+                {
+                    "left": "Пираты Карибского моря",
+                    "left_percent": 84,
+                    "right": "Бриллиантовая рука",
+                    "right_percent": 16
+                },
+                {
+                    "left": "Один дома",
+                    "left_percent": 23,
+                    "right": "Матрица",
+                    "right_percent": 77
+                },
+                {
+                    "left": "Пираты Карибского моря",
+                    "left_percent": 13,
+                    "right": "Брат",
+                    "right_percent": 87
+                }
+            ]
+        },
+        {
+            "id": "music",
+            "title": "Музыка",
+            "pairs": [
+                {
+                    "left": "Фредди Меркьюри",
+                    "left_percent": 27,
+                    "right": "Мадонна",
+                    "right_percent": 73
+                },
+                {
+                    "left": "ABBA",
+                    "left_percent": 75,
+                    "right": "Rammstein",
+                    "right_percent": 25
+                },
+                {
+                    "left": "Linkin Park",
+                    "left_percent": 98,
+                    "right": "Рианна",
+                    "right_percent": 2
+                },
+                {
+                    "left": "Эд Ширан",
+                    "left_percent": 14,
+                    "right": "Инстасамка",
+                    "right_percent": 86
+                },
+                {
+                    "left": "Lana Del Rey",
+                    "left_percent": 85,
+                    "right": "Баста",
+                    "right_percent": 15
+                },
+                {
+                    "left": "Lana Del Rey",
+                    "left_percent": 98,
+                    "right": "Би-2",
+                    "right_percent": 2
+                },
+                {
+                    "left": "Моргенштерн",
+                    "left_percent": 10,
+                    "right": "Gorillaz",
+                    "right_percent": 90
+                },
+                {
+                    "left": "Gorillaz",
+                    "left_percent": 3,
+                    "right": "Queen",
+                    "right_percent": 97
+                },
+                {
+                    "left": "Баста",
+                    "left_percent": 89,
+                    "right": "Джастин Бибер",
+                    "right_percent": 11
+                },
+                {
+                    "left": "Ленинград",
+                    "left_percent": 9,
+                    "right": "The Weeknd",
+                    "right_percent": 91
+                },
+                {
+                    "left": "Дуа Липа",
+                    "left_percent": 0,
+                    "right": "Coldplay",
+                    "right_percent": 100
+                },
+                {
+                    "left": "Daft Punk",
+                    "left_percent": 81,
+                    "right": "Макс Корж",
+                    "right_percent": 19
+                },
+                {
+                    "left": "Green Day",
+                    "left_percent": 100,
+                    "right": "Тейлор Свифт",
+                    "right_percent": 0
+                },
+                {
+                    "left": "Рианна",
+                    "left_percent": 15,
+                    "right": "Ленинград",
+                    "right_percent": 85
+                },
+                {
+                    "left": "Дрейк",
+                    "left_percent": 18,
+                    "right": "Евровидение",
+                    "right_percent": 82
+                },
+                {
+                    "left": "Элвис Пресли",
+                    "left_percent": 51,
+                    "right": "Дуа Липа",
+                    "right_percent": 49
+                },
+                {
+                    "left": "AC/DC",
+                    "left_percent": 50,
+                    "right": "Daft Punk",
+                    "right_percent": 50
+                },
+                {
+                    "left": "Дрейк",
+                    "left_percent": 55,
+                    "right": "Би-2",
+                    "right_percent": 45
+                },
+                {
+                    "left": "Земфира",
+                    "left_percent": 88,
+                    "right": "Эд Ширан",
+                    "right_percent": 12
+                },
+                {
+                    "left": "BTS",
+                    "left_percent": 100,
+                    "right": "Майкл Джексон",
+                    "right_percent": 0
+                },
+                {
+                    "left": "Джастин Бибер",
+                    "left_percent": 1,
+                    "right": "Green Day",
+                    "right_percent": 99
+                },
+                {
+                    "left": "Ленинград",
+                    "left_percent": 86,
+                    "right": "Фредди Меркьюри",
+                    "right_percent": 14
+                },
+                {
+                    "left": "Кино",
+                    "left_percent": 99,
+                    "right": "Сплин",
+                    "right_percent": 1
+                },
+                {
+                    "left": "Arctic Monkeys",
+                    "left_percent": 26,
+                    "right": "The Beatles",
+                    "right_percent": 74
+                },
+                {
+                    "left": "Мадонна",
+                    "left_percent": 8,
+                    "right": "Gorillaz",
+                    "right_percent": 92
+                }
+            ]
+        },
+        {
+            "id": "sports",
+            "title": "Спорт",
+            "pairs": [
+                {
+                    "left": "Формула-1",
+                    "left_percent": 86,
+                    "right": "Скандинавская ходьба",
+                    "right_percent": 14
+                },
+                {
+                    "left": "Уимблдон",
+                    "left_percent": 32,
+                    "right": "Плавание",
+                    "right_percent": 68
+                },
+                {
+                    "left": "ЦСКА",
+                    "left_percent": 26,
+                    "right": "Реал Мадрид",
+                    "right_percent": 74
+                },
+                {
+                    "left": "Легкая атлетика",
+                    "left_percent": 5,
+                    "right": "Шахматы",
+                    "right_percent": 95
+                },
+                {
+                    "left": "Легкая атлетика",
+                    "left_percent": 4,
+                    "right": "Бассейн",
+                    "right_percent": 96
+                },
+                {
+                    "left": "Чемпионат мира",
+                    "left_percent": 34,
+                    "right": "Фитнес",
+                    "right_percent": 66
+                },
+                {
+                    "left": "Шахматы",
+                    "left_percent": 99,
+                    "right": "Скандинавская ходьба",
+                    "right_percent": 1
+                },
+                {
+                    "left": "Йога",
+                    "left_percent": 96,
+                    "right": "Велоспорт",
+                    "right_percent": 4
+                },
+                {
+                    "left": "Ливерпуль",
+                    "left_percent": 50,
+                    "right": "Олимпиада",
+                    "right_percent": 50
+                },
+                {
+                    "left": "ЦСКА",
+                    "left_percent": 4,
+                    "right": "UFC",
+                    "right_percent": 96
+                },
+                {
+                    "left": "Регби",
+                    "left_percent": 1,
+                    "right": "Футбол",
+                    "right_percent": 99
+                },
+                {
+                    "left": "ПСЖ",
+                    "left_percent": 100,
+                    "right": "Тур де Франс",
+                    "right_percent": 0
+                },
+                {
+                    "left": "Регби",
+                    "left_percent": 40,
+                    "right": "Тренажерный зал",
+                    "right_percent": 60
+                },
+                {
+                    "left": "Хоккей",
+                    "left_percent": 61,
+                    "right": "Гольф",
+                    "right_percent": 39
+                },
+                {
+                    "left": "Фитнес",
+                    "left_percent": 94,
+                    "right": "Шпагат",
+                    "right_percent": 6
+                },
+                {
+                    "left": "Теннис",
+                    "left_percent": 68,
+                    "right": "Гимнастика",
+                    "right_percent": 32
+                },
+                {
+                    "left": "Тур де Франс",
+                    "left_percent": 0,
+                    "right": "ПСЖ",
+                    "right_percent": 100
+                },
+                {
+                    "left": "Скандинавская ходьба",
+                    "left_percent": 0,
+                    "right": "Манчестер Юнайтед",
+                    "right_percent": 100
+                },
+                {
+                    "left": "UFC",
+                    "left_percent": 95,
+                    "right": "ПСЖ",
+                    "right_percent": 5
+                },
+                {
+                    "left": "Теннис",
+                    "left_percent": 96,
+                    "right": "Формула-1",
+                    "right_percent": 4
+                },
+                {
+                    "left": "Манчестер Юнайтед",
+                    "left_percent": 68,
+                    "right": "НБА",
+                    "right_percent": 32
+                },
+                {
+                    "left": "Бег",
+                    "left_percent": 16,
+                    "right": "Бокс",
+                    "right_percent": 84
+                },
+                {
+                    "left": "Плавание",
+                    "left_percent": 24,
+                    "right": "Баскетбол",
+                    "right_percent": 76
+                },
+                {
+                    "left": "Легкая атлетика",
+                    "left_percent": 7,
+                    "right": "Баскетбол",
+                    "right_percent": 93
+                },
+                {
+                    "left": "Фитнес",
+                    "left_percent": 94,
+                    "right": "Регби",
+                    "right_percent": 6
+                }
+            ]
+        },
+        {
+            "id": "games",
+            "title": "Игры",
+            "pairs": [
+                {
+                    "left": "Resident Evil",
+                    "left_percent": 68,
+                    "right": "League of Legends",
+                    "right_percent": 32
+                },
+                {
+                    "left": "Brawl Stars",
+                    "left_percent": 6,
+                    "right": "Roblox",
+                    "right_percent": 94
+                },
+                {
+                    "left": "Геншин Импакт",
+                    "left_percent": 6,
+                    "right": "Baldur's Gate 3",
+                    "right_percent": 94
+                },
+                {
+                    "left": "Dark Souls",
+                    "left_percent": 47,
+                    "right": "Dota 2",
+                    "right_percent": 53
+                },
+                {
+                    "left": "S.T.A.L.K.E.R.",
+                    "left_percent": 15,
+                    "right": "World of Tanks",
+                    "right_percent": 85
+                },
+                {
+                    "left": "Brawl Stars",
+                    "left_percent": 98,
+                    "right": "Тетрис",
+                    "right_percent": 2
+                },
+                {
+                    "left": "Тетрис",
+                    "left_percent": 3,
+                    "right": "Doom",
+                    "right_percent": 97
+                },
+                {
+                    "left": "Мафия",
+                    "left_percent": 9,
+                    "right": "Dota 2",
+                    "right_percent": 91
+                },
+                {
+                    "left": "Mortal Kombat",
+                    "left_percent": 51,
+                    "right": "Among Us",
+                    "right_percent": 49
+                },
+                {
+                    "left": "CS:GO",
+                    "left_percent": 8,
+                    "right": "Resident Evil",
+                    "right_percent": 92
+                },
+                {
+                    "left": "Geometry Dash",
+                    "left_percent": 45,
+                    "right": "Elden Ring",
+                    "right_percent": 55
+                },
+                {
+                    "left": "League of Legends",
+                    "left_percent": 88,
+                    "right": "Half-Life",
+                    "right_percent": 12
+                },
+                {
+                    "left": "Geometry Dash",
+                    "left_percent": 95,
+                    "right": "Ведьмак 3",
+                    "right_percent": 5
+                },
+                {
+                    "left": "Assassins Creed",
+                    "left_percent": 19,
+                    "right": "Mortal Kombat",
+                    "right_percent": 81
+                },
+                {
+                    "left": "World of Tanks",
+                    "left_percent": 93,
+                    "right": "Метро Исход",
+                    "right_percent": 7
+                },
+                {
+                    "left": "Cyberpunk 2077",
+                    "left_percent": 58,
+                    "right": "Need for Speed",
+                    "right_percent": 42
+                },
+                {
+                    "left": "Overwatch",
+                    "left_percent": 83,
+                    "right": "Assassins Creed",
+                    "right_percent": 17
+                },
+                {
+                    "left": "PUBG",
+                    "left_percent": 82,
+                    "right": "Gran Turismo",
+                    "right_percent": 18
+                },
+                {
+                    "left": "Need for Speed",
+                    "left_percent": 46,
+                    "right": "Dota 2",
+                    "right_percent": 54
+                },
+                {
+                    "left": "Need for Speed",
+                    "left_percent": 79,
+                    "right": "Симс 4",
+                    "right_percent": 21
+                },
+                {
+                    "left": "Far Cry",
+                    "left_percent": 59,
+                    "right": "Gran Turismo",
+                    "right_percent": 41
+                },
+                {
+                    "left": "Atomic Heart",
+                    "left_percent": 70,
+                    "right": "Человек-паук",
+                    "right_percent": 30
+                },
+                {
+                    "left": "Ведьмак 3",
+                    "left_percent": 12,
+                    "right": "Cyberpunk 2077",
+                    "right_percent": 88
+                },
+                {
+                    "left": "World of Warcraft",
+                    "left_percent": 1,
+                    "right": "Minecraft",
+                    "right_percent": 99
+                },
+                {
+                    "left": "Valorant",
+                    "left_percent": 80,
+                    "right": "Cyberpunk 2077",
+                    "right_percent": 20
+                }
+            ]
+        },
+        {
+            "id": "people",
+            "title": "Люди",
+            "pairs": [
+                {
+                    "left": "Дуэйн Джонсон",
+                    "left_percent": 24,
+                    "right": "Том Круз",
+                    "right_percent": 76
+                },
+                {
+                    "left": "Юрий Дудь",
+                    "left_percent": 2,
+                    "right": "Наруто",
+                    "right_percent": 98
+                },
+                {
+                    "left": "Уэнсдей Аддамс",
+                    "left_percent": 3,
+                    "right": "Илон Маск",
+                    "right_percent": 97
+                },
+                {
+                    "left": "Леонардо Ди Каприо",
+                    "left_percent": 49,
+                    "right": "Дональд Трамп",
+                    "right_percent": 51
+                },
+                {
+                    "left": "Стивен Хокинг",
+                    "left_percent": 56,
+                    "right": "Лионель Месси",
+                    "right_percent": 44
+                },
+                {
+                    "left": "Владимир Путин",
+                    "left_percent": 57,
+                    "right": "Алла Пугачева",
+                    "right_percent": 43
+                },
+                {
+                    "left": "Тейлор Свифт",
+                    "left_percent": 39,
+                    "right": "Владимир Путин",
+                    "right_percent": 61
+                },
+                {
+                    "left": "Юрий Гагарин",
+                    "left_percent": 74,
+                    "right": "Альберт Эйнштейн",
+                    "right_percent": 26
+                },
+                {
+                    "left": "Настя Ивлеева",
+                    "left_percent": 68,
+                    "right": "Генри Форд",
+                    "right_percent": 32
+                },
+                {
+                    "left": "Илон Маск",
+                    "left_percent": 74,
+                    "right": "Хабиб Нурмагомедов",
+                    "right_percent": 26
+                },
+                {
+                    "left": "Альберт Эйнштейн",
+                    "left_percent": 39,
+                    "right": "Настя Ивлеева",
+                    "right_percent": 61
+                },
+                {
+                    "left": "Александр Овечкин",
+                    "left_percent": 41,
+                    "right": "Юрий Гагарин",
+                    "right_percent": 59
+                },
+                {
+                    "left": "Джефф Безос",
+                    "left_percent": 20,
+                    "right": "Леонардо Ди Каприо",
+                    "right_percent": 80
+                },
+                {
+                    "left": "Генри Форд",
+                    "left_percent": 44,
+                    "right": "Джо Байден",
+                    "right_percent": 56
+                },
+                {
+                    "left": "Анджелина Джоли",
+                    "left_percent": 75,
+                    "right": "Хабиб Нурмагомедов",
+                    "right_percent": 25
+                },
+                {
+                    "left": "Анджелина Джоли",
+                    "left_percent": 53,
+                    "right": "Виктор Цой",
+                    "right_percent": 47
+                },
+                {
+                    "left": "Дональд Трамп",
+                    "left_percent": 70,
+                    "right": "Юрий Гагарин",
+                    "right_percent": 30
+                },
+                {
+                    "left": "Марго Робби",
+                    "left_percent": 5,
+                    "right": "MrBeast",
+                    "right_percent": 95
+                },
+                {
+                    "left": "Стив Джобс",
+                    "left_percent": 26,
+                    "right": "Анджелина Джоли",
+                    "right_percent": 74
+                },
+                {
+                    "left": "Гарри Поттер",
+                    "left_percent": 91,
+                    "right": "Илон Маск",
+                    "right_percent": 9
+                },
+                {
+                    "left": "Генри Форд",
+                    "left_percent": 28,
+                    "right": "Билл Гейтс",
+                    "right_percent": 72
+                },
+                {
+                    "left": "Арнольд Шварценеггер",
+                    "left_percent": 28,
+                    "right": "Криштиану Роналду",
+                    "right_percent": 72
+                },
+                {
+                    "left": "Владимир Путин",
+                    "left_percent": 65,
+                    "right": "Стив Джобс",
+                    "right_percent": 35
+                },
+                {
+                    "left": "Марк Цукерберг",
+                    "left_percent": 62,
+                    "right": "Михаил Литвин",
+                    "right_percent": 38
+                },
+                {
+                    "left": "Хабиб Нурмагомедов",
+                    "left_percent": 26,
+                    "right": "Илон Маск",
+                    "right_percent": 74
+                }
+            ]
+        },
+        {
+            "id": "technology",
+            "title": "Технологии",
+            "pairs": [
+                {
+                    "left": "Алиса",
+                    "left_percent": 24,
+                    "right": "Siri",
+                    "right_percent": 76
+                },
+                {
+                    "left": "Флешка",
+                    "left_percent": 19,
+                    "right": "Планшет",
+                    "right_percent": 81
+                },
+                {
+                    "left": "Квадрокоптер",
+                    "left_percent": 46,
+                    "right": "Блокчейн",
+                    "right_percent": 54
+                },
+                {
+                    "left": "macOS",
+                    "left_percent": 100,
+                    "right": "Робот-пылесос",
+                    "right_percent": 0
+                },
+                {
+                    "left": "Яндекс GPT",
+                    "left_percent": 3,
+                    "right": "Телевизор",
+                    "right_percent": 97
+                },
+                {
+                    "left": "Android",
+                    "left_percent": 99,
+                    "right": "Монитор",
+                    "right_percent": 1
+                },
+                {
+                    "left": "WhatsApp",
+                    "left_percent": 100,
+                    "right": "Приставка",
+                    "right_percent": 0
+                },
+                {
+                    "left": "Rutube",
+                    "left_percent": 100,
+                    "right": "VR-очки",
+                    "right_percent": 0
+                },
+                {
+                    "left": "Нейросеть",
+                    "left_percent": 3,
+                    "right": "Яндекс",
+                    "right_percent": 97
+                },
+                {
+                    "left": "Яндекс",
+                    "left_percent": 30,
+                    "right": "Android",
+                    "right_percent": 70
+                },
+                {
+                    "left": "Смарт-часы",
+                    "left_percent": 100,
+                    "right": "VR-очки",
+                    "right_percent": 0
+                },
+                {
+                    "left": "Камера",
+                    "left_percent": 74,
+                    "right": "Планшет",
+                    "right_percent": 26
+                },
+                {
+                    "left": "Оперативная память",
+                    "left_percent": 0,
+                    "right": "WhatsApp",
+                    "right_percent": 100
+                },
+                {
+                    "left": "Android",
+                    "left_percent": 41,
+                    "right": "Windows",
+                    "right_percent": 59
+                },
+                {
+                    "left": "Linux",
+                    "left_percent": 97,
+                    "right": "Нейросеть",
+                    "right_percent": 3
+                },
+                {
+                    "left": "Камера",
+                    "left_percent": 59,
+                    "right": "Ноутбук",
+                    "right_percent": 41
+                },
+                {
+                    "left": "ВКонтакте",
+                    "left_percent": 38,
+                    "right": "Госуслуги",
+                    "right_percent": 62
+                },
+                {
+                    "left": "Metaverse",
+                    "left_percent": 14,
+                    "right": "Госуслуги",
+                    "right_percent": 86
+                },
+                {
+                    "left": "Микрофон",
+                    "left_percent": 1,
+                    "right": "Яндекс",
+                    "right_percent": 99
+                },
+                {
+                    "left": "Биткоин",
+                    "left_percent": 48,
+                    "right": "Микрофон",
+                    "right_percent": 52
+                },
+                {
+                    "left": "NFT",
+                    "left_percent": 5,
+                    "right": "Яндекс",
+                    "right_percent": 95
+                },
+                {
+                    "left": "Rutube",
+                    "left_percent": 64,
+                    "right": "Монитор",
+                    "right_percent": 36
+                },
+                {
+                    "left": "Midjourney",
+                    "left_percent": 100,
+                    "right": "VR-очки",
+                    "right_percent": 0
+                },
+                {
+                    "left": "Телеграм",
+                    "left_percent": 97,
+                    "right": "Искусственный интеллект",
+                    "right_percent": 3
+                },
+                {
+                    "left": "Powerbank",
+                    "left_percent": 74,
+                    "right": "Википедия",
+                    "right_percent": 26
+                }
+            ]
+        },
+        {
+            "id": "brands",
+            "title": "Бренды",
+            "pairs": [
+                {
+                    "left": "Prada",
+                    "left_percent": 100,
+                    "right": "Додо Пицца",
+                    "right_percent": 0
+                },
+                {
+                    "left": "Алиэкспресс",
+                    "left_percent": 2,
+                    "right": "Starbucks",
+                    "right_percent": 98
+                },
+                {
+                    "left": "Сбербанк",
+                    "left_percent": 63,
+                    "right": "Ozon",
+                    "right_percent": 37
+                },
+                {
+                    "left": "Chanel",
+                    "left_percent": 95,
+                    "right": "Золотое Яблоко",
+                    "right_percent": 5
+                },
+                {
+                    "left": "IKEA",
+                    "left_percent": 99,
+                    "right": "Магнит",
+                    "right_percent": 1
+                },
+                {
+                    "left": "Xiaomi",
+                    "left_percent": 96,
+                    "right": "Тинькофф",
+                    "right_percent": 4
+                },
+                {
+                    "left": "Лента",
+                    "left_percent": 8,
+                    "right": "Starbucks",
+                    "right_percent": 92
+                },
+                {
+                    "left": "Xiaomi",
+                    "left_percent": 32,
+                    "right": "IKEA",
+                    "right_percent": 68
+                },
+                {
+                    "left": "Coca-Cola",
+                    "left_percent": 29,
+                    "right": "Reebok",
+                    "right_percent": 71
+                },
+                {
+                    "left": "Huawei",
+                    "left_percent": 88,
+                    "right": "Coca-Cola",
+                    "right_percent": 12
+                },
+                {
+                    "left": "Chanel",
+                    "left_percent": 97,
+                    "right": "Пятерочка",
+                    "right_percent": 3
+                },
+                {
+                    "left": "Huawei",
+                    "left_percent": 91,
+                    "right": "Тинькофф",
+                    "right_percent": 9
+                },
+                {
+                    "left": "Яндекс",
+                    "left_percent": 97,
+                    "right": "Яндекс Маркет",
+                    "right_percent": 3
+                },
+                {
+                    "left": "Мегамаркет",
+                    "left_percent": 0,
+                    "right": "Xiaomi",
+                    "right_percent": 100
+                },
+                {
+                    "left": "Microsoft",
+                    "left_percent": 99,
+                    "right": "Вкусно и точка",
+                    "right_percent": 1
+                },
+                {
+                    "left": "Ашан",
+                    "left_percent": 0,
+                    "right": "Samsung",
+                    "right_percent": 100
+                },
+                {
+                    "left": "Пятерочка",
+                    "left_percent": 50,
+                    "right": "Спортмастер",
+                    "right_percent": 50
+                },
+                {
+                    "left": "Золотое Яблоко",
+                    "left_percent": 60,
+                    "right": "Спортмастер",
+                    "right_percent": 40
+                },
+                {
+                    "left": "Авито",
+                    "left_percent": 26,
+                    "right": "Яндекс",
+                    "right_percent": 74
+                },
+                {
+                    "left": "Pepsi",
+                    "left_percent": 21,
+                    "right": "H&M",
+                    "right_percent": 79
+                },
+                {
+                    "left": "Dior",
+                    "left_percent": 34,
+                    "right": "Яндекс",
+                    "right_percent": 66
+                },
+                {
+                    "left": "Prada",
+                    "left_percent": 94,
+                    "right": "Пятерочка",
+                    "right_percent": 6
+                },
+                {
+                    "left": "Мегамаркет",
+                    "left_percent": 15,
+                    "right": "Вкусно и точка",
+                    "right_percent": 85
+                },
+                {
+                    "left": "Samsung",
+                    "left_percent": 91,
+                    "right": "Gucci",
+                    "right_percent": 9
+                },
+                {
+                    "left": "KFC",
+                    "left_percent": 100,
+                    "right": "М.Видео",
+                    "right_percent": 0
+                }
+            ]
+        },
+        {
+            "id": "memes",
+            "title": "Мемы",
+            "pairs": [
+                {
+                    "left": "Ди Каприо с бокалом",
+                    "left_percent": 0,
+                    "right": "Скуф",
+                    "right_percent": 100
+                },
+                {
+                    "left": "Повар спрашивает",
+                    "left_percent": 8,
+                    "right": "Спиннер",
+                    "right_percent": 92
+                },
+                {
+                    "left": "Чемодан вокзал",
+                    "left_percent": 100,
+                    "right": "Гном Огузок",
+                    "right_percent": 0
+                },
+                {
+                    "left": "Мыш кродеться",
+                    "left_percent": 0,
+                    "right": "Огурец",
+                    "right_percent": 100
+                },
+                {
+                    "left": "Топ",
+                    "left_percent": 100,
+                    "right": "Пацан к успеху шел",
+                    "right_percent": 0
+                },
+                {
+                    "left": "Капибара",
+                    "left_percent": 62,
+                    "right": "Краш",
+                    "right_percent": 38
+                },
+                {
+                    "left": "Ъуъ",
+                    "left_percent": 43,
+                    "right": "Борщ с капустой",
+                    "right_percent": 57
+                },
+                {
+                    "left": "О май гад",
+                    "left_percent": 24,
+                    "right": "Шлепа",
+                    "right_percent": 76
+                },
+                {
+                    "left": "Кот за столом",
+                    "left_percent": 0,
+                    "right": "Огурец",
+                    "right_percent": 100
+                },
+                {
+                    "left": "Наташа мы уронили",
+                    "left_percent": 3,
+                    "right": "Чемодан вокзал",
+                    "right_percent": 97
+                },
+                {
+                    "left": "Дрейк в куртке",
+                    "left_percent": 0,
+                    "right": "Капибара",
+                    "right_percent": 100
+                },
+                {
+                    "left": "Лягушонок Пепе",
+                    "left_percent": 48,
+                    "right": "Доге",
+                    "right_percent": 52
+                },
+                {
+                    "left": "Капибара",
+                    "left_percent": 74,
+                    "right": "Ждун",
+                    "right_percent": 26
+                },
+                {
+                    "left": "Гигачад",
+                    "left_percent": 96,
+                    "right": "Лягушонок Пепе",
+                    "right_percent": 4
+                },
+                {
+                    "left": "Кот Степан",
+                    "left_percent": 0,
+                    "right": "Тюбик",
+                    "right_percent": 100
+                },
+                {
+                    "left": "Грустный кот",
+                    "left_percent": 2,
+                    "right": "Краш",
+                    "right_percent": 98
+                },
+                {
+                    "left": "Борщ с капустой",
+                    "left_percent": 0,
+                    "right": "Мем",
+                    "right_percent": 100
+                },
+                {
+                    "left": "Никакого праздника",
+                    "left_percent": 2,
+                    "right": "Чечик",
+                    "right_percent": 98
+                },
+                {
+                    "left": "Троллфейс",
+                    "left_percent": 12,
+                    "right": "Гигачад",
+                    "right_percent": 88
+                },
+                {
+                    "left": "Ждун",
+                    "left_percent": 100,
+                    "right": "Симпл-димпл",
+                    "right_percent": 0
+                },
+                {
+                    "left": "Сигма",
+                    "left_percent": 81,
+                    "right": "Кринж",
+                    "right_percent": 19
+                },
+                {
+                    "left": "Кринж",
+                    "left_percent": 19,
+                    "right": "Огурец",
+                    "right_percent": 81
+                },
+                {
+                    "left": "Дрейк в куртке",
+                    "left_percent": 0,
+                    "right": "Гарольд скрывающий боль",
+                    "right_percent": 100
+                },
+                {
+                    "left": "Амогус",
+                    "left_percent": 77,
+                    "right": "Повар спрашивает",
+                    "right_percent": 23
+                },
+                {
+                    "left": "Скибиди туалет",
+                    "left_percent": 100,
+                    "right": "Симпл-димпл",
+                    "right_percent": 0
+                }
+            ]
+        }
+    ]
+}
